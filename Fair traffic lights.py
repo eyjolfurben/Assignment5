@@ -5,6 +5,7 @@ west_int = int(input("Number of cars travelling west: "))
 
 sum_of_cars = north_int + south_int + east_int + west_int
 
+
 n/s = 0
 e/w = 0
 
@@ -20,3 +21,4 @@ while ((north_int or south_int) > (east_int or west_int)):
 
 print("Green light on E/W")
 print("No cars waiting, the traffic jam has been solved!")
+
