@@ -8,6 +8,3 @@ sumof_south_int=0
 sumof_east_int=0
 sumof_west_int=0
 
-
-
-while north_int
